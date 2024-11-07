@@ -26,4 +26,4 @@ else:
 
 print("¡Gracias por usar la calculadora de impuestos mensual de las personas físicas que se encuentran en RESICO!\n Made by: @carloscoronatax")
 
-# Made by: @carloscoronatax
+# Made by @carloscoronatax
