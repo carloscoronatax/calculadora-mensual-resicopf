@@ -17,7 +17,7 @@ elif question_1 > 50000 and question_1 <= 83333.33:
     print('El impuesto ISR a pagar antes del dia 17: $', math.ceil(impuesto), "pesos")
 elif question_1 > 83333.33 and question_1 <= 208333.33:
     impuesto = question_1 * 0.02
-    print('El impuesto ISR a pagar: antes del dia 17: $', math.ceil(impuesto), "pesos")
+    print('El impuesto ISR a pagar antes del dia 17: $', math.ceil(impuesto), "pesos")
 elif question_1 > 208333.33 and question_1 <= 3500000:
     impuesto = question_1 * 0.0250
     print('El impuesto ISR a pagar antes del dia 17: $',math.ceil(impuesto), "pesos")
