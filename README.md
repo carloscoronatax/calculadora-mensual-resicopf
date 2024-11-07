@@ -47,7 +47,7 @@ Para cualquier duda o sugerencia, por favor contacta a [carloscoronaanguiano@gma
 
 A continuación se muestran algunas capturas de pantalla de la calculadora en funcionamiento:
 
-![Pantalla Principal](./captura_1.png)
+![Pantalla Principal](./captura_2.png)
 *Pantalla principal de la calculadora y resultado.*
 
 ## Agradecimientos
